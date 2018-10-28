@@ -37,16 +37,27 @@ defaults:
     type: posts
   values:
     layout: post
-    sectionid: blog
+    sectionid: News
 
 - scope:
     path: _docs
     type: docs
   values:
     layout: docs
-    sectionid: docs
+    sectionid: Our Classmates
     seo:
       type: "WebPage"
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: Our Donors
+    seo:
+      type: "WebPage"
+
+
 
 collections:
   docs:
