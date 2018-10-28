@@ -46,15 +46,6 @@ defaults:
     seo:
       type: "WebPage"
 
-- scope:
-    path: _resources
-    type: docs
-  values:
-    layout: docs
-    sectionid: resources
-    seo:
-      type: "WebPage"
-
 collections:
   docs:
     permalink: /:collection/:path/
