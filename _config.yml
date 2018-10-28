@@ -1,9 +1,7 @@
 # Site settings
 title: NTUEE-1975
 email: your-email@domain.com
-description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+description: 台大 1975 級電機系友創新創業獎助學金 | NTUEE-1975 Innovation and Entrepreneurship Award
 lang: en-US
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
