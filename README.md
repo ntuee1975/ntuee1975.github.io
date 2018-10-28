@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Jekyll Doc Theme
 
-You can use the [editor on GitHub](https://github.com/ntuee1975/award/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Go to [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Running locally
 
-### Markdown
+You need Ruby and gem before starting, then:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```bash
+# install bundler
+gem install bundler
 
-```markdown
-Syntax highlighted code block
+# clone the project
+git clone https://github.com/aksakalli/jekyll-doc-theme.git
+cd jekyll-doc-theme
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# run jekyll with dependencies
+bundle exec jekyll serve
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Docker
 
-### Jekyll Themes
+Alternatively, you can deploy it using the multi-stage [Dockerfile](Dockerfile)
+that serves files from Nginx for better performance in production.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ntuee1975/award/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Build the image for your site's `JEKYLL_BASEURL`:
 
-### Support or Contact
+```
+docker build --build-arg JEKYLL_BASEURL="/" -t jekyll-doc-theme .
+```
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+and serve it:
+
+```
+docker run -p 8080:80 jekyll-doc-theme
+```
+
+## License
+
+Released under [the MIT license](LICENSE).
