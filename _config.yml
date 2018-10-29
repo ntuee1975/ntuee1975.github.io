@@ -51,5 +51,5 @@ collections:
     permalink: /:collection/:path/
     output: true
   posts:
-    permalink: /blog/:year/:month/:day/:title/
+    permalink: /news/:year/:month/:day/:title/
     output: true
