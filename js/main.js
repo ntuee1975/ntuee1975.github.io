@@ -12,6 +12,8 @@ $(function() {
         prefetch: baseurl + '/search.json'
     });
 
+    pages.initialize();
+
     $('#search-box').typeahead({
         minLength: 0,
         highlight: true
