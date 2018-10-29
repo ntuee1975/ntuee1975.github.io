@@ -1,9 +1,3 @@
-- title: Getting Started
-  docs:
-  - home
-  - themes
-  - customization
-
 - title: Short Bios
   docs:
   - 曹恆偉
@@ -181,8 +175,3 @@
   - 廖大武
   - 陳理
   - 陳雨生
-- title: Examples
-  docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
