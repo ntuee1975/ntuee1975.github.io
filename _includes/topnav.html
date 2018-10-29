@@ -23,7 +23,7 @@
             <ul class="nav navbar-nav">
                 <li {% if page.sectionid=='home' %} class="active" {% endif %}><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
                 <li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | prepend: site.baseurl }}">News</a></li>
-                <li {% if page.sectionid=='classmates' %} class="active" {% endif %}><a href="{{ "/docs/classmates/" | prepend: site.baseurl }}">Our Classmates</a></li>
+                <li {% if page.sectionid=='classmates' %} class="active" {% endif %}><a href="{{ "/classmates/" | prepend: site.baseurl }}">Our Classmates</a></li>
                 <li {% if page.sectionid=='honors' %} class="active" {% endif %}><a href="{{ "/honors/" | prepend: site.baseurl }}">Honors and Awards</a></li>
                 <li {% if page.sectionid=='donors' %} class="active" {% endif %}><a href="{{ "/docs/donors/" | prepend: site.baseurl }}">Our Donors</a></li>
                 <li {% if page.sectionid=='awardees' %} class="active" {% endif %}><a href="{{ "/docs/awardees/" | prepend: site.baseurl }}">EECS Awardees</a></li>
