@@ -1,11 +1,10 @@
 ---
 title: Our Donors
-permalink: /docs/donors/
-redirect_from: /docs/donors/index.html
+permalink: /donors/
 sectionid: donors
 ---
 
-| 捐助個人或單位 | Affiliation | 
+| 捐助個人或單位 | Affiliation |
 |:-----:|:-----:|
 | 林坤銘 | |
 | 錢大柱 | |
