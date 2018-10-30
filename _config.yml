@@ -43,8 +43,6 @@ defaults:
   values:
     layout: docs_no_nav
     sectionid: apply
-    seo:
-      type: "WebPage"
 
 - scope:
     path: _docs/awardees
@@ -61,8 +59,6 @@ defaults:
   values:
     layout: docs_no_nav
     sectionid: classmates
-    seo:
-      type: "WebPage"
 
 - scope:
     path: _docs/contact
@@ -70,8 +66,6 @@ defaults:
   values:
     layout: docs_no_nav
     sectionid: contact
-    seo:
-      type: "WebPage"
 
 - scope:
     path: _docs/donors
@@ -79,8 +73,6 @@ defaults:
   values:
     layout: docs_no_nav
     sectionid: donors
-    seo:
-      type: "WebPage"
 
 - scope:
     path: _docs/honors
@@ -88,8 +80,6 @@ defaults:
   values:
     layout: docs_no_nav
     sectionid: honors
-    seo:
-      type: "WebPage"
 
 - scope:
     path: _docs/resources
@@ -97,8 +87,6 @@ defaults:
   values:
     layout: docs_no_nav
     sectionid: resources
-    seo:
-      type: "WebPage"
 
 collections:
   docs:
