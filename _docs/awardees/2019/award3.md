@@ -1,7 +1,7 @@
 ---
 title: EECS Awardees
-permalink: /awardees/
-sectionid: awardees
+permalink: /awardees/2019/award3
+sectionid: 2019/award3
 ---
 
 #### Getting started
