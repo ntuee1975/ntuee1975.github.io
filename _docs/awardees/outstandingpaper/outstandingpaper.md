@@ -1,7 +1,7 @@
 ---
-title: 傑出論文獎
+title: 2018
 permalink: /awardees/outstandingpaper/
 sectionid: awardees2018
 ---
 
-#### Getting started
+#### 傑出論文獎
