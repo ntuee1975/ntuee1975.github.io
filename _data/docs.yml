@@ -1,10 +1,9 @@
 - title: 創新創業獎
   folder: /awardees/innovation/ # no need to add 'docs' in the front!
   docs:
-  - 林坤銘
-  - 王榮騰
+  - innovation
 
 - title: 傑出論文獎
   folder: /awardees/outstandingpaper/
   docs:
-  - awardees
+  - outstandingpaper
