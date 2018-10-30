@@ -50,7 +50,7 @@ defaults:
     path: _docs/classmates
     type: docs
   values:
-    layout: page
+    layout: docs_no_nav
     sectionid: classmates
     seo:
       type: "WebPage"
