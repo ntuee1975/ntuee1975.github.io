@@ -1,12 +1,12 @@
 - title: 2019
-  folder: /awardees/2019
+  folder: /awardees/2019/
   docs:
   - award1
   - award2
   - award3
 
 - title: 2018
-  folder: /awardees/2018
+  folder: /awardees/2018/
   docs:
   - award1
   - award2
