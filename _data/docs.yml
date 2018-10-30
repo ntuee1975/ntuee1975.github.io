@@ -1,11 +1,11 @@
 - title: classmates
-  folder: /docs/classmates/
+  folder: /classmates/ # no need to add 'docs' in the front!
   docs:
   - 林坤銘
   - 王榮騰
 
 - title: 2018
-  folder: /docs/awardees/2018/
+  folder: /awardees/2018/
   docs:
   - award1
   - award2
