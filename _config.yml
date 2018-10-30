@@ -38,6 +38,13 @@ defaults:
     sectionid: news
 
 - scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs_no_nav
+    sectionid: docs
+
+- scope:
     path: _docs/apply
     type: docs
   values:
