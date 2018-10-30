@@ -1,6 +1,6 @@
 ---
 title: EECS Awardees
-permalink: /awardees/2018/award2
+permalink: /awardees/2018/award2/
 sectionid: 2018award2
 ---
 
