@@ -42,7 +42,16 @@ defaults:
     type: docs
   values:
     layout: docs
-    sectionid: docs
+    sectionid: awardees
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _docs/classmates
+    type: docs
+  values:
+    layout: page
+    sectionid: classmates
     seo:
       type: "WebPage"
 
