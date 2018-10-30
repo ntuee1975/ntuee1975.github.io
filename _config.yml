@@ -38,7 +38,16 @@ defaults:
     sectionid: news
 
 - scope:
-    path: _docs
+    path: _docs/apply
+    type: docs
+  values:
+    layout: docs_no_nav
+    sectionid: apply
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _docs/awardees
     type: docs
   values:
     layout: docs
@@ -52,6 +61,42 @@ defaults:
   values:
     layout: docs_no_nav
     sectionid: classmates
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _docs/contact
+    type: docs
+  values:
+    layout: docs_no_nav
+    sectionid: contact
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _docs/donors
+    type: docs
+  values:
+    layout: docs_no_nav
+    sectionid: donors
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _docs/honors
+    type: docs
+  values:
+    layout: docs_no_nav
+    sectionid: honors
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _docs/resources
+    type: docs
+  values:
+    layout: docs_no_nav
+    sectionid: resources
     seo:
       type: "WebPage"
 
