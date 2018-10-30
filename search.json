@@ -13,7 +13,7 @@
   {% endfor %}
 {% endfor %}
 
-  {% for page site.docs %}
+  {% for page in site.docs %}
   {
   "title": "{{ page.title | escape }}",
   "url": "{{ page.url | prepend: site.baseurl }}"
