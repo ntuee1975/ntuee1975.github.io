@@ -5,7 +5,7 @@ description: 台大 1975 級電機系友創新創業獎助學金
 lang: en-US
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: https://ntuee1975.github.io/ # the base hostname & protocol for your site
+url: https://ntuee1975.github.io # the base hostname & protocol for your site
 git_address: https://github.com/ntuee1975/ntuee1975.github.io
 git_edit_address: https://github.com/ntuee1975/ntuee1975.github.io/blob/master
 
