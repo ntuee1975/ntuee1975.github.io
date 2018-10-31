@@ -100,36 +100,36 @@ body {
 }
 
 .page-header-container-gate {
-  @extend %message-shared;
+  @extend %page-header-container;
   background: url('../img/ntu_gate.jpg') no-repeat 50% 0;
 }
 
 .page-header-container-fubell {
-  @extend %message-shared;
+  @extend %page-header-container;
   background: url('../img/ntu_fubell.jpg') no-repeat 50% 0;
 }
 
 .page-header-container-library05 {
-  @extend %message-shared;
+  @extend %page-header-container;
   background: url('../img/ntu_library_w_05.jpg') no-repeat 50% 0;
 }
 
 .page-header-container-library07 {
-  @extend %message-shared;
+  @extend %page-header-container;
   background: url('../img/ntu_library_w_07.jpg') no-repeat 50% 0;
 }
 
 .page-header-container-library09 {
-  @extend %message-shared;
+  @extend %page-header-container;
   background: url('../img/ntu_library_w_09.jpg') no-repeat 50% 0;
 }
 
 .page-header-container-library11 {
-  @extend %message-shared;
+  @extend %page-header-container;
   background: url('../img/ntu_library_w_11.jpg') no-repeat 50% 0;
 }
 
 .page-header-container-library12 {
-  @extend %message-shared;
+  @extend %page-header-container;
   background: url('../img/ntu_library_w_12.jpg') no-repeat 50% 0;
 }
