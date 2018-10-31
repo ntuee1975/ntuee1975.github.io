@@ -88,3 +88,48 @@ body {
 .navbar-form .has-feedback .form-control-feedback{
   top:10px
 }
+
+
+%page-header-container {
+  background-color: black;
+  // background-attachment: fixed;
+  background-size: cover;
+  background-position: center 45%;
+  margin-top: 0px;
+  height: 150px;
+}
+
+.page-header-container-gate {
+  @extend %message-shared;
+  background: url('../img/ntu_gate.jpg') no-repeat 50% 0;
+}
+
+.page-header-container-fubell {
+  @extend %message-shared;
+  background: url('../img/ntu_fubell.jpg') no-repeat 50% 0;
+}
+
+.page-header-container-library05 {
+  @extend %message-shared;
+  background: url('../img/ntu_library_w_05.jpg') no-repeat 50% 0;
+}
+
+.page-header-container-library07 {
+  @extend %message-shared;
+  background: url('../img/ntu_library_w_07.jpg') no-repeat 50% 0;
+}
+
+.page-header-container-library09 {
+  @extend %message-shared;
+  background: url('../img/ntu_library_w_09.jpg') no-repeat 50% 0;
+}
+
+.page-header-container-library11 {
+  @extend %message-shared;
+  background: url('../img/ntu_library_w_11.jpg') no-repeat 50% 0;
+}
+
+.page-header-container-library12 {
+  @extend %message-shared;
+  background: url('../img/ntu_library_w_12.jpg') no-repeat 50% 0;
+}
