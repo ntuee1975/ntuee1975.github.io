@@ -4,4 +4,4 @@ permalink: /awardees/
 sectionid: awardees
 ---
 
-#### Getting started
+- [2019臺大1975級電機系系友科技研究創新獎獲獎名單](/files/2019臺大1975級電機系系友科技研究創新獎.pdf)
