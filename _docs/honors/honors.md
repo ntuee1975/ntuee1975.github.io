@@ -95,12 +95,12 @@ sectionid: honors
 
   <style type="text/css">
   .tg  {border:none;border-collapse:collapse;border-spacing:0;}
-  .tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  .tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:20px;overflow:hidden;
     padding:10px 5px;word-break:normal;}
-  .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:20px;font-weight:normal;
     overflow:hidden;padding:10px 5px;word-break:normal;}
-  .tg .tg-36ox{border-color:inherit;color:#fe0000;text-align:left;vertical-align:top}
-  .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-36ox{border-color:#000000;color:#fe0000;text-align:center;vertical-align:top}
+  .tg .tg-0pky{border-color:#000000;text-align:center;vertical-align:top}
   </style>
   <table class="tg">
   <thead>
