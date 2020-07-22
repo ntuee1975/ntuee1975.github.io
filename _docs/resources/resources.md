@@ -88,9 +88,9 @@ sectionid: resources
 
   2、何宜慈博士紀念獎學金獲獎學生(6位)
 
-  周資傑(臺灣大學、加州理工學院)
-  郭彥伶(臺灣大學、麻省理工學院)
-  許承郁(臺灣大學、麻省理工學院)
+  周資傑(臺灣大學、加州理工學院)<br>
+  郭彥伶(臺灣大學、麻省理工學院)<br>
+  許承郁(臺灣大學、麻省理工學院)<br>
   彭姵晨(臺灣大學、伊利諾大學香檳分校)
 
   胡翰彬(上海交大、加州大學聖塔巴巴拉分校)
@@ -100,8 +100,7 @@ sectionid: resources
   3、財團法人何宜慈科技發展教育基金會
 
 - **相關連結**
-  https://m.facebook.com/630178914/posts/10157539234663915/
 
-  http://host.cc.ntu.edu.tw/sec/schinfo/epaper/article.asp?num=1431&sn=17424
+  [防疫不分年齡 小小年紀認真量](http://host.cc.ntu.edu.tw/sec/schinfo/epaper/article.asp?num=1431&sn=17424)
 
   [臺大電機系推出防疫一號設計參考 打造低成本非接觸式自動量額溫裝置](http://www.twiota.org/EventDetails.aspx?id=5d331196-028d-419b-8092-636daa079b03)
