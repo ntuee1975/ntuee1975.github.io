@@ -11,6 +11,10 @@ sectionid: honors
 
   [莊景德](/classmates/莊景德/)
 
+- **永續基金創立者**
+
+  陳冠中、徐永宗、[王榮騰](/classmates/王榮騰/)、吳自康、錢大柱、孫元成
+
 - **國際電機電子工程師學會會士 (IEEE Fellow)**
 
   [盧超群](/classmates/盧超群/)、[莊景德](/classmates/莊景德/)、孫元成、[陳中寬](/classmates/陳中寬/)、[王榮騰](/classmates/王榮騰/)
