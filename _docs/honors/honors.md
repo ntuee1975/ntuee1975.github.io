@@ -55,8 +55,8 @@ sectionid: honors
 
   美國: 錢大柱、[王榮騰](/classmates/王榮騰/)、魏游邦
 
-- **博士 (粗體部分)**
-
+- **博士 (紅色部分)**
+<!--
   |:-----:|:-----:|:-----:|:-----:|:-----:|
   | **曹恆偉**	| **傅崇正**	| 曹昌騏	| **孫元成**	| **王榮冠**	|
   | **蔡利清**	| 鄭乃文	| **華春明**	| **王盈裕**	| **謝千行**	|
@@ -92,7 +92,7 @@ sectionid: honors
   | 曾少松	| 許寧	| 黃文波	| 王昌龍	| 郭代川	|
   | 張簡茂英	| **葉少基**	| **董建成**	| 宋創元	| 葉昆山	|
   | **陳正昌**	| 施學輝	| 蔡崇熙	| **謝泉隆**	| 李明宜	|
-
+-->
   <style type="text/css">
   .tg  {border:none;border-collapse:collapse;border-spacing:0;}
   .tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;
@@ -350,6 +350,8 @@ sectionid: honors
       <td class="tg-0pky">廖大武</td>
       <td class="tg-0pky">陳理</td>
       <td class="tg-0pky">陳雨生</td>
+    </tr>
+    <tr>
     </tr>
   </tbody>
   </table>
