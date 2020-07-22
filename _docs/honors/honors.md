@@ -92,6 +92,7 @@ sectionid: honors
   | 曾少松	| 許寧	| 黃文波	| 王昌龍	| 郭代川	|
   | 張簡茂英	| **葉少基**	| **董建成**	| 宋創元	| 葉昆山	|
   | **陳正昌**	| 施學輝	| 蔡崇熙	| **謝泉隆**	| 李明宜	|
+  | 張紹華	| 翁星國	| 廖大武	| 陳理	| 陳雨生 |
 -->
   <style type="text/css">
   .tg  {border:none;border-collapse:collapse;border-spacing:0;}
@@ -350,8 +351,6 @@ sectionid: honors
       <td class="tg-0pky">廖大武</td>
       <td class="tg-0pky">陳理</td>
       <td class="tg-0pky">陳雨生</td>
-    </tr>
-    <tr>
     </tr>
   </tbody>
   </table>
