@@ -95,15 +95,17 @@ sectionid: honors
 
   <style type="text/css">
   .tg  {border:none;border-collapse:collapse;border-spacing:0;}
-  .tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:20px;overflow:hidden;
+  .tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;
     padding:10px 5px;word-break:normal;}
-  .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:20px;font-weight:normal;
+  .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:16px;font-weight:normal;
     overflow:hidden;padding:10px 5px;word-break:normal;}
   .tg .tg-36ox{border-color:#000000;color:#fe0000;text-align:center;vertical-align:top}
   .tg .tg-0pky{border-color:#000000;text-align:center;vertical-align:top}
   </style>
   <table class="tg">
   <thead>
+  </thead>
+  <tbody>
     <tr>
       <th class="tg-36ox">曹恆偉</th>
       <th class="tg-36ox">傅崇正</th>
@@ -111,8 +113,6 @@ sectionid: honors
       <th class="tg-36ox">孫元成</th>
       <th class="tg-36ox">王榮冠</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td class="tg-36ox">蔡利清</td>
       <td class="tg-0pky">鄭乃文</td>
