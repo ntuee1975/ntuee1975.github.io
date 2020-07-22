@@ -55,10 +55,8 @@ defaults:
     path: _docs/awardees
     type: docs
   values:
-    layout: docs
+    layout: docs_no_nav
     sectionid: awardees
-    seo:
-      type: "WebPage"
 
 - scope:
     path: _docs/classmates
