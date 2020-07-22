@@ -40,3 +40,8 @@ alt="2019年1月12日美國矽谷新年餐聚" border="10" />
 - **2018年11月1日台北同學會餐聚**
   <img src="/img/NTUEE1975.jpg"
 alt="Photo of NTU-EE 1975 Gathering" border="10" />
+
+  <img src="/img/20181101.jpg"
+alt="Photo of NTU-EE 1975 Gathering" border="10" />
+  後排左起：？、副院長逢愛君、副院長吳宗霖、院長張耀文、副院長林恭如<br>
+  前排左起：王盈裕、黃年奇、陳有諒、孫元成
