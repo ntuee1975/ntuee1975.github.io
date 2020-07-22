@@ -3,6 +3,10 @@ title: Our Life
 permalink: /life/
 sectionid: life
 ---
+- **張華茹女士、王榮騰董事長受邀拜訪電資學院**
+  <img src="/img/張華茹女士、王榮騰、張耀文院長.jpg"
+alt="張華茹女士、王榮騰、張耀文院長" border="10" />
+
 - **2019年12月27日陳有諒董事長和孫元成博士受邀拜訪電資學院**
 
   <img src="/img/陳有諒董事長和孫元成博士受邀拜訪電資學院1.jpg"
