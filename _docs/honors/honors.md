@@ -92,3 +92,40 @@ sectionid: honors
 | 曾少松	| 許寧	| 黃文波	| 王昌龍	| 郭代川	|
 | 張簡茂英	| **葉少基**	| **董建成**	| 宋創元	| 葉昆山	|
 | **陳正昌**	| 施學輝	| 蔡崇熙	| **謝泉隆**	| 李明宜	|
+
+
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| <p style=“color:red;”>曹恆偉</p>	| <p style=“color:red;”>傅崇正</p>	| 曹昌騏	| <p style=“color:red;”>孫元成</p>	| <p style=“color:red;”>王榮冠</p>	|
+| <p style=“color:red;”>蔡利清</p>	| 鄭乃文	| <p style=“color:red;”>華春明</p>	| <p style=“color:red;”>王盈裕</p>	| <p style=“color:red;”>謝千行</p>	|
+| 廖曉狄	| <p style=“color:red;”>莊景德</p>	| <p style=“color:red;”>任中浩</p>	| <p style=“color:red;”>余耀庭</p>	| <p style=“color:red;”>陳冠中</p>	|
+| 黃尊陸	| 李大寧	| <p style=“color:red;”>盧超群</p>	| <p style=“color:red;”>原正平</p>	| 錢大柱	|
+| 董清銓	| <p style=“color:red;”>曾欽平</p>	| <p style=“color:red;”>林維中</p>	| <p style=“color:red;”>魏游邦</p>	| 王冀翹	|
+| 洪立南	| 許金童	| 潘冠宇	| 姚建良	| 徐永宗	|
+| 游敦行	| 江孝祥	| 陳哲雄	| <p style=“color:red;”>陳久威</p>	| <p style=“color:red;”>傅曉維</p>	|
+| 劉光華	| 謝世民	| <p style=“color:red;”>黃漢威</p>	| <p style=“color:red;”>葉宏謨</p>	| 曾仁宏	|
+| 汪維亮	| <p style=“color:red;”>蔡尚仁</p>	| 曾履亨	| 林曉義	| <p style=“color:red;”>陳博修</p>	|
+| 沈弘達	| 蔡文鐸	| 郭棋楠	| <p style=“color:red;”>吳自康</p>	| <p style=“color:red;”>吳聰敏</p>	|
+| <p style=“color:red;”>蔡琦</p>	| <p style=“color:red;”>陳添枝</p>	| 曹定天	| 方宏基	| <p style=“color:red;”>王榮騰</p>	|
+| 李濟民	| 陳進福	| <p style=“color:red;”>張義隆</p>	| <p style=“color:red;”>林澤民</p>	| 李思亮	|
+| 周嘉雲	| <p style=“color:red;”>陳中寬</p>	| 楊彥彰	| <p style=“color:red;”>王一飛</p>	| 王聖衍	|
+| 陳有諒	| 王茂穗	| 杜松泰	| 黃大峻	| 蔡英俊	|
+| 陳俊臣	| <p style=“color:red;”>趙明德</p>	| <p style=“color:red;”>蕭嘉全</p>	| 鄭崇深	| <p style=“color:red;”>王雲</p>	|
+| 呂文龍	| <p style=“color:red;”>黃崇興</p>	| 劉宜亨	| 林經緯	| 林坤銘	|
+| 陳達平	| <p style=“color:red;”>李育安</p>	| 周立台	| 陳遜易	| 卜冫	|
+| 楊文榮	| <p style=“color:red;”>劉立達</p>	| <p style=“color:red;”>黃和湧</p>	| 張麥森	| <p style=“color:red;”>張宗德</p>	|
+| 沈政芳	| 李明儒	| <p style=“color:red;”>周培民</p>	| 張世傑	| 張文嶺	|
+| 陳雲偉	| <p style=“color:red;”>林榮楨</p>	| 林天樂	| <p style=“color:red;”>吳光燦</p>	| <p style=“color:red;”>張昭國</p>	|
+| 林全明	| 張台傑	| 吳聲基	| **黃年奇**	| **陳煇煌**	|
+| 李文	| 馬治健	| 胡正民	| 楊正吉	| 程章生	|
+| 許治行	| 胡德全	| 施一粟	| 余健雄	| 鄧觀成	|
+| 張卓田	| 李明寬	| 孔祖厚	| 黃壽波	| 楊晟憲	|
+| 游洪贊	| 陳國安	| 胡漢興	| 謝文端	| 張帥福	|
+| 李家驤	| 搭爾杜	| 成元華	| 蔡銳志	| 蘇正輝	|
+| 曾日明	| 楊立仁	| 鄭益鳴	| 鄧錦相	| 蔡毅成	|
+| 馬玉坤	| 陳家勉	| 冼振威	| 胡樹年	| 林百練	|
+| 符名誠	| 呂新港	| 鄭建華	| 孔慶炘	| 譚建明	|
+| 林鵬舉	| 張榮傑	| 許守義	| 黃滿鴻	| 陳鶴	|
+| 鄭明貴	| 胡卓然	| 陳輝陸	| 孔慶遠	| 剛偉	|
+| 曾少松	| 許寧	| 黃文波	| 王昌龍	| 郭代川	|
+| 張簡茂英	| **葉少基**	| **董建成**	| 宋創元	| 葉昆山	|
+| **陳正昌**	| 施學輝	| 蔡崇熙	| **謝泉隆**	| 李明宜	|
