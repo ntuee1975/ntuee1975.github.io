@@ -1,7 +1,7 @@
 # Site settings
-title: 台大 1975 級電機系系友科技研究創新獎
+title: 臺大 1975 級電機系系友科技研究創新獎
 email: your-email@domain.com
-description: 
+description:
 lang: en-US
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
