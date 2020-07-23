@@ -6,7 +6,7 @@ sectionid: contact
 
 **聯絡人**
 
-- 李依芸 臺大電機資訊學院秘書<br/>
+- 李依芸 臺大電機資訊學院經理<br/>
   yiyunlee@ntu.edu.tw
 
 - 王榮騰 臺大1975級電機系系友<br/>
