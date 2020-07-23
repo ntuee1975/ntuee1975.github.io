@@ -13,7 +13,7 @@ sectionid: honors
 
 - **永續基金創立者**
 
-  陳冠中、徐永宗、[王榮騰](/classmates/王榮騰/)、吳自康、錢大柱、孫元成
+  陳冠中、徐永宗、[王榮騰](/classmates/王榮騰/)、吳自康、[錢大柱](/classmates/錢大柱)、孫元成
 
 - **國際電機電子工程師學會會士 (IEEE Fellow)**
 
@@ -22,6 +22,10 @@ sectionid: honors
 - **IBM Fellow**
 
   王雲
+
+- **Cadence Fellow**
+
+  [錢大柱](/classmates/錢大柱)
 
 - **政府部門首長**
 
@@ -39,25 +43,29 @@ sectionid: honors
 
   [盧超群](/classmates/盧超群/)、孫元成、曾欽平、[王榮騰](/classmates/王榮騰/)
 
+- **伊利諾大學香檳分校電機電腦系傑出校友**
+
+  孫元成
+
 - **臺大傑出校友**
 
   [盧超群](/classmates/盧超群/)、[王榮騰](/classmates/王榮騰/)
 
-- **伊利諾大學香檳分校電機電腦系傑出校友**
+- **交大傑出校友**
 
-  孫元成
+  [盧超群](/classmates/盧超群/)
 
 - **創投家**
 
   臺灣：[林坤銘](/classmates/林坤銘/)、陳有諒、[盧超群](/classmates/盧超群/)、孫元成、董清銓、陳進福
 
-  美國：錢大柱
+  美國：[錢大柱](/classmates/錢大柱)
 
 - **公司創辦人、共同創辦人**
 
   臺灣: [盧超群](/classmates/盧超群/)、[林坤銘](/classmates/林坤銘/)、陳有諒、李明儒、游敦行、徐永宗、余耀庭、王冀翹、[陳博修](/classmates/陳博修)
 
-  美國: 錢大柱、[王榮騰](/classmates/王榮騰/)、魏游邦
+  美國: [錢大柱](/classmates/錢大柱)、[王榮騰](/classmates/王榮騰/)、魏游邦
 
 - **博士** (`粗體`部分)
 
