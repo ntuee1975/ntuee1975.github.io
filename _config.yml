@@ -1,7 +1,7 @@
 # Site settings
-title: NTUEE-1975 Innovation and Entrepreneurship Award
+title: 台大 1975 級電機系友科技研究創新獎
 email: your-email@domain.com
-description: 台大 1975 級電機系友創新創業獎助學金
+description: 台大 1975 級電機系友科技研究創新獎
 lang: en-US
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
