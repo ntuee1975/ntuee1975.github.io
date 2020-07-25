@@ -96,13 +96,12 @@ body {
 }
 
 .page-header-container-classmate {
-  // @extend %page-header-container;
+  @extend %page-header-container;
   background: url('../img/NTUEE1975header.jpg') no-repeat 50% 0;
   background-color: black;
   // background-attachment: fixed;
   background-size: cover;
   background-position: center 45%;
-  margin-top: 0px;
 }
 
 .page-header-container-gate {
