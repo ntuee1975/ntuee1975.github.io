@@ -3,7 +3,7 @@ title: NTUEE-1975 Classmates
 permalink: /classmates/
 sectionid: classmates
 ---
-- 永遠的班長：林坤銘、陳有諒
+- **永遠的班長：林坤銘、陳有諒**
 
   |:-----:|:-----:|:-----:|:-----:|:-----:|
   | [曹恆偉](曹恆偉/) | 傅崇正 | 曹昌騏 | 孫元成 | 王榮冠 |
