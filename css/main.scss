@@ -95,6 +95,15 @@ body {
   height: 150px;
 }
 
+.page-header-container-classmate {
+  @extend %page-header-container;
+  background: url('../img/NTUEE1975header.jpg') no-repeat 50% 0;
+  background-color: black;
+  // background-attachment: fixed;
+  background-size: cover;
+  background-position: center 50%;
+}
+
 .page-header-container-gate {
   @extend %page-header-container;
   background: url('../img/ntu_gate.jpg') no-repeat 50% 0;
