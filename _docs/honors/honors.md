@@ -33,7 +33,7 @@ sectionid: honors
 
   美國: [王盈裕](/classmates/王盈裕/)
 
-- **名譽教授、 終身講座教授 、講座教授、特聘教授、教授**
+- **名譽教授、榮譽教授、終身講座教授、講座教授、特聘教授、教授**
 
   臺灣: [曹恆偉](/classmates/曹恆偉)、[陳添枝](/classmates/陳添枝/)、[黃崇興](/classmates/黃崇興)、[吳聰敏](/classmates/吳聰敏)、[莊景德](/classmates/莊景德/)、[葉宏謨](/classmates/葉宏謨)、[陳煇煌](/classmates/陳煇煌)
 

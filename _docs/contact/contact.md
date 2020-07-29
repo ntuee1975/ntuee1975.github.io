@@ -19,3 +19,6 @@ sectionid: contact
 
 - 周資傑 加州理工學院電機系<br/>
   chou.tzuchieh@gmail.com
+
+- 彭姵晨 美國伊利諾大學香檳分校電腦博士<br/>
+  pengpc1219@gmail.com
