@@ -42,15 +42,17 @@ body {
 
 .header-container {
   background-color: black;
-  background: url('../img/bg.jpg') no-repeat 50% 0;
+  background: url('../img/bg-ntu.jpg') no-repeat 50% 0;
   color: #fff;
+  // add shadow when background image is light
+  text-shadow: 2px 2px 2px #222222;
 
   h2 {
     color: #fff;
   }
   // background-attachment: fixed;
   background-size: cover;
-  background-position: center 45%;
+  background-position: center 55%;
   margin-top: 0px;
 }
 .navbar-container {
