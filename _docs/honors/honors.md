@@ -13,7 +13,7 @@ sectionid: honors
 
 - **永續基金創立者**
 
-  陳冠中、徐永宗、[王榮騰](/classmates/王榮騰/)、吳自康、[錢大柱](/classmates/錢大柱)、孫元成
+  陳冠中、徐永宗、[王榮騰](/classmates/王榮騰/)、吳自康、[錢大柱](/classmates/錢大柱)、孫元成、[林坤銘](/classmates/林坤銘/)
 
 - **國際電機電子工程師學會會士 (IEEE Fellow)**
 
