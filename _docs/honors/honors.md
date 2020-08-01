@@ -13,7 +13,7 @@ sectionid: honors
 
 - **永續基金創立者**
 
-  陳冠中、徐永宗、[王榮騰](/classmates/王榮騰/)、吳自康、[錢大柱](/classmates/錢大柱)、孫元成、[林坤銘](/classmates/林坤銘/)
+  陳冠中、徐永宗、[王榮騰](/classmates/王榮騰/)、[吳自康](/classmates/吳自康/)、[錢大柱](/classmates/錢大柱)、孫元成、[林坤銘](/classmates/林坤銘/)
 
 - **國際電機電子工程師學會會士 (IEEE Fellow)**
 
@@ -37,7 +37,7 @@ sectionid: honors
 
   臺灣: [曹恆偉](/classmates/曹恆偉)、[陳添枝](/classmates/陳添枝/)、[黃崇興](/classmates/黃崇興)、[吳聰敏](/classmates/吳聰敏)、[莊景德](/classmates/莊景德/)、[葉宏謨](/classmates/葉宏謨)、[陳煇煌](/classmates/陳煇煌)
 
-  美國: [王盈裕](/classmates/王盈裕/)、[陳中寬](/classmates/陳中寬/)、張義隆、[黃漢威](/classmates/黃漢威)、林澤民、林維中
+  美國: [王盈裕](/classmates/王盈裕/)、[陳中寬](/classmates/陳中寬/)、[張義隆](/classmates/張義隆/)、[黃漢威](/classmates/黃漢威)、林澤民、林維中
 
 - **特聘講座教授、客座教授**
 
