@@ -31,6 +31,11 @@ sectionid: resources
        width="500"
        alt="建中家長會莊惠如(樂亞樂食品總經理 臺大 B73)來取件，建中自備五個額溫槍做防疫一號" border="10" />
 
+- **國家圖書館感謝狀**
+  <img src="\img\thanks_national_library.jpg"
+       width="500"
+       alt="國家圖書館感謝狀" border="10" />
+
 - **大安區公所感謝狀**
   <img src="\img\大安區公所感謝狀.jpg"
        width="500"
