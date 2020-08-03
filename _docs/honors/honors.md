@@ -57,13 +57,13 @@ sectionid: honors
 
 - **創投家**
 
-  臺灣：[林坤銘](/classmates/林坤銘/)、陳有諒、[盧超群](/classmates/盧超群/)、孫元成、董清銓、陳進福
+  臺灣：[林坤銘](/classmates/林坤銘/)、[陳有諒](/classmates/陳有諒/)、[盧超群](/classmates/盧超群/)、孫元成、董清銓、陳進福
 
   美國：[錢大柱](/classmates/錢大柱)
 
 - **公司創辦人、共同創辦人**
 
-  臺灣: [盧超群](/classmates/盧超群/)、[林坤銘](/classmates/林坤銘/)、陳有諒、李明儒、[游敦行](/classmates/游敦行/)、徐永宗、余耀庭、王冀翹、[陳博修](/classmates/陳博修)
+  臺灣: [盧超群](/classmates/盧超群/)、[林坤銘](/classmates/林坤銘/)、[陳有諒](/classmate/陳有諒/)、李明儒、[游敦行](/classmates/游敦行/)、徐永宗、余耀庭、王冀翹、[陳博修](/classmates/陳博修)
 
   美國: [錢大柱](/classmates/錢大柱)、[王榮騰](/classmates/王榮騰/)、魏游邦、[董建成](/classmates/董建成/) 
 
