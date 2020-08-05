@@ -22,3 +22,18 @@ sectionid: awardees
   - [臺大 1975 級電機系友創新創業獎助學金--捐款報告](/files/台大1975級電機系友創新創業獎助學金_10102018.pdf)
   - [臺大1975級電機系系友創新創業獎助基金--基金源起](/files/基金源起_07312020.pdf)
   - [財團法人何宜慈科技發展教育基金會](https://irvingthofoundation.github.io/)
+
+##### 獲獎照片
+
+<table style="width: 600px">
+  <tr>
+   <td>
+   <img src="/img/awardee_visit_20200804.jpg"
+        alt="2020年8月4日毛紹綱教授(2019年獲獎團隊指導老師)前往首席創投拜會諮詢顧問組成員"
+        width="260" border="10" />
+   </td>
+   <td class="photo-text">
+     2020年8月4日毛紹綱教授(2019年獲獎團隊指導老師)前往首席創投拜會諮詢顧問組成員，左起：陳有諒、董清銓、毛紹綱、孫元成、林坤銘。
+   </td>
+  </tr>
+</table>
