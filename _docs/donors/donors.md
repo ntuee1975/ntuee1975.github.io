@@ -48,7 +48,7 @@ sectionid: donors
 | 陳遜易 | |
 | 蔡毅成 | |
 | 孫元成 | 臺大特聘講座教授<br>臺積電研發副總經理、技術長<br>美國伊利諾大學香檳分校電機博士 |
-| [周培民](/classmates/周培民) | 美國 Microchip Technology  射頻部副總經理<br />美國 SST Communications 總經理<br />美國 G-Plus Technology (巨通科技) 總經理、共同創辦人 |
+| [周培民](/classmates/周培民) | 美國 Microchip Technology  射頻部副總經理<br />美國 G-Plus Technology (巨通科技) 總經理、共同創辦人<br />美國加州大學洛杉磯分校電機博士 |
 | [黃崇興](/classmates/黃崇興) | 臺大工商管理系名譽教授<br>臺大EMBA執行長<br>美國德州大學奧斯汀分校管理科學及資訊系統博士 |
 | 蕭嘉全 | 美國加州大學柏克萊分校電機博士 |
 | 傅崇正 | 美國AT&T貝爾實驗室高級研究員<br>美國史丹佛大學電機博士 |
