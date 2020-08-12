@@ -49,7 +49,7 @@ sectionid: honors
 
 - **臺大傑出校友**
 
-  [盧超群](/classmates/盧超群/)、[王榮騰](/classmates/王榮騰/)
+  [盧超群](/classmates/盧超群/)、[王榮騰](/classmates/王榮騰/)、孫元成
 
 - **交大傑出校友**
 
