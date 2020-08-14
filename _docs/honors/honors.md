@@ -27,6 +27,10 @@ sectionid: honors
 
   [錢大柱](/classmates/錢大柱)
 
+- **Infinera Fellow**
+
+  [吳光燦](/classmates/吳光燦)
+
 - **政府部門首長**
 
   臺灣: [陳添枝](/classmates/陳添枝/)
