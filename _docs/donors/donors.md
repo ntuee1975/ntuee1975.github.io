@@ -15,7 +15,7 @@ sectionid: donors
 | [張義隆](/classmates/張義隆/) | 美國喬治亞理工學院商學院名譽教授 |
 | 蔡利清 | |
 | [黃漢威](/classmates/黃漢威/) | 美國明尼蘇達州立大學電機系教授 |
-| 魏游邦 | 美國 Legend Design Technology 創辦人<br>美國伊利諾大學香檳分校電機博士 |
+| [魏游邦](/classmates/魏游邦/) | 美國 Legend Design Technology 創辦人<br>美國伊利諾大學香檳分校電機博士 |
 | 王茂穗 | |
 | 黃年奇 | 美國德州大學奧斯汀分校電機博士 |
 | 王冀翹 | |
