@@ -63,4 +63,5 @@ sectionid: donors
 | [陳煇煌](/classmates/陳煇煌/) | 大同大學資訊經營系榮譽教授、經營學院院長<br>大同公司經營資訊處處長<br>美國伊利諾大學香檳分校電腦博士 |
 | [董建成](/classmates/董建成/) | 美國互聯網先鋒EnterpriseLink創辦人/CEO<br />臺灣大哥大公司資深副總經理及策略長<br />中國華為技術全球首席商業諮詢顧問/副總 |
 | [吳光燦](/classmates/吳光燦/) | Infinera Fellow<br />加拿大渥太華大學電機博士 |
+| [曾欽平](/classmates/曾欽平/) | |
 | [何宜慈基金會](https://irvingthofoundation.github.io/) | 董事長 王榮騰 (華騰科技董事長)<br />執行長 何邦立 (國防醫學院傑出校友) |

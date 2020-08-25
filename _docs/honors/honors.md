@@ -45,7 +45,7 @@ sectionid: honors
 
 - **特聘講座教授、客座教授**
 
-  [盧超群](/classmates/盧超群/)、孫元成、曾欽平、[王榮騰](/classmates/王榮騰/)
+  [盧超群](/classmates/盧超群/)、孫元成、[曾欽平](/classmates/曾欽平/)、[王榮騰](/classmates/王榮騰/)
 
 - **伊利諾大學香檳分校電機電腦系傑出校友**
 
