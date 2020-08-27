@@ -13,11 +13,11 @@ sectionid: honors
 
 - **永續基金創立者**
 
-  [陳冠中](/classmates/陳冠中/)、[徐永宗](/classmates/徐永宗/)、[王榮騰](/classmates/王榮騰/)、[吳自康](/classmates/吳自康/)、[錢大柱](/classmates/錢大柱)、孫元成、[林坤銘](/classmates/林坤銘/)
+  [陳冠中](/classmates/陳冠中/)、[徐永宗](/classmates/徐永宗/)、[王榮騰](/classmates/王榮騰/)、[吳自康](/classmates/吳自康/)、[錢大柱](/classmates/錢大柱)、[孫元成](/classmates/孫元成/)、[林坤銘](/classmates/林坤銘/)
 
 - **國際電機電子工程師學會會士 (IEEE Fellow)**
 
-  [盧超群](/classmates/盧超群/)、[莊景德](/classmates/莊景德/)、孫元成、[陳中寬](/classmates/陳中寬/)、[王榮騰](/classmates/王榮騰/)
+  [盧超群](/classmates/盧超群/)、[莊景德](/classmates/莊景德/)、[孫元成](/classmates/孫元成/)、[陳中寬](/classmates/陳中寬/)、[王榮騰](/classmates/王榮騰/)
 
 - **IBM Fellow**
 
@@ -45,15 +45,15 @@ sectionid: honors
 
 - **特聘講座教授、客座教授**
 
-  [盧超群](/classmates/盧超群/)、孫元成、[曾欽平](/classmates/曾欽平/)、[王榮騰](/classmates/王榮騰/)
+  [盧超群](/classmates/盧超群/)、[孫元成](/classmates/孫元成/)、[曾欽平](/classmates/曾欽平/)、[王榮騰](/classmates/王榮騰/)
 
 - **伊利諾大學香檳分校電機電腦系傑出校友**
 
-  孫元成
+  [孫元成](/classmates/孫元成/)
 
 - **臺大傑出校友**
 
-  [盧超群](/classmates/盧超群/)、[王榮騰](/classmates/王榮騰/)、孫元成
+  [盧超群](/classmates/盧超群/)、[王榮騰](/classmates/王榮騰/)、[孫元成](/classmates/孫元成/)
 
 - **交大傑出校友**
 
@@ -61,7 +61,7 @@ sectionid: honors
 
 - **創投家**
 
-  臺灣：[林坤銘](/classmates/林坤銘/)、[陳有諒](/classmates/陳有諒/)、[盧超群](/classmates/盧超群/)、孫元成、[董清銓](/classmates/董清銓/)、陳進福
+  臺灣：[林坤銘](/classmates/林坤銘/)、[陳有諒](/classmates/陳有諒/)、[盧超群](/classmates/盧超群/)、[孫元成](/classmates/孫元成/)、[董清銓](/classmates/董清銓/)、陳進福
 
   美國：[錢大柱](/classmates/錢大柱)
 
