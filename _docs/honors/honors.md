@@ -21,7 +21,7 @@ sectionid: honors
 
 - **IBM Fellow**
 
-  王雲
+  [王雲](/classmates/王雲/)
 
 - **Cadence Fellow**
 

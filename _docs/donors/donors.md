@@ -64,4 +64,5 @@ sectionid: donors
 | [董建成](/classmates/董建成/) | 美國互聯網先鋒EnterpriseLink創辦人/CEO<br />臺灣大哥大公司資深副總經理及策略長<br />中國華為技術全球首席商業諮詢顧問/副總 |
 | [吳光燦](/classmates/吳光燦/) | Infinera Fellow<br />加拿大渥太華大學電機博士 |
 | [曾欽平](/classmates/曾欽平/) | 工業技術研究院通信技術組組長<br />美國 Innomedia 工程副總<br />美國加州大學柏克萊分校電機博士 |
+| [王雲](/classmates/王雲/) | IBM Fellow<br />美國加州大學聖塔芭芭拉分校電機博士 |
 | [何宜慈基金會](https://irvingthofoundation.github.io/) | 董事長 王榮騰 (華騰科技董事長)<br />執行長 何邦立 (國防醫學院傑出校友) |
