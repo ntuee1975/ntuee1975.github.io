@@ -69,7 +69,7 @@ sectionid: honors
 
   臺灣: [盧超群](/classmates/盧超群/)、[林坤銘](/classmates/林坤銘/)、[陳有諒](/classmate/陳有諒/)、[李明儒](/classmate/李明儒/)、[游敦行](/classmates/游敦行/)、[徐永宗](/classmates/徐永宗/)、[余耀庭](/classmates/余耀庭/)、[王冀翹](/classmate/王冀翹/)、[陳博修](/classmates/陳博修)
 
-  美國: [錢大柱](/classmates/錢大柱)、[王榮騰](/classmates/王榮騰/)、[魏游邦](/classmates/魏游邦/)、[董建成](/classmates/董建成/)、[周培民](/classmates/周培民/)
+  美國: [錢大柱](/classmates/錢大柱)、[王榮騰](/classmates/王榮騰/)、[魏游邦](/classmates/魏游邦/)、[董建成](/classmates/董建成/)、[周培民](/classmates/周培民/)、[蕭嘉全](/classmates/蕭嘉全/)
 
 - **博士** (`粗體`部分)
 
