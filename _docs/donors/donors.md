@@ -17,7 +17,7 @@ sectionid: donors
 | [黃漢威](/classmates/黃漢威/) | 美國明尼蘇達州立大學電機系教授 |
 | [魏游邦](/classmates/魏游邦/) | 美國 Legend Design Technology 創辦人<br>美國伊利諾大學香檳分校電機博士 |
 | 王茂穗 | |
-| 黃年奇 | 美國德州大學奧斯汀分校電機博士 |
+| [黃年奇](/classmates/黃年奇/) | 美國Alcatel 網路設計中心資深主任、副總經理<br />美國Nokia 資深處長 |
 | [王冀翹](/classmates/王冀翹/) | 邑富股份有限公司研發顧問<br />合普工業股份有限公司研發顧問 |
 | [張台傑](/classmates/張台傑/) | IBM台灣政府事業處銷售處長<br />IBM大中華人力資源總監<br />IBM大中華營運總監 |
 | [謝千行](/classmates/謝千行/) | 行政院主計處電子處理資料中心分析師<br>交通大學副教授<br>中央銀行資訊室主任 |
