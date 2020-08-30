@@ -65,6 +65,7 @@ sectionid: donors
 | [吳光燦](/classmates/吳光燦/) | Infinera Fellow<br />加拿大渥太華大學電機博士 |
 | [曾欽平](/classmates/曾欽平/) | 工業技術研究院通信技術組組長<br />美國 Innomedia 工程副總<br />美國加州大學柏克萊分校電機博士 |
 | [王雲](/classmates/王雲/) | IBM Fellow<br />美國加州大學聖塔芭芭拉分校電機博士 |
+| [趙明德](/classmates/趙明德/) | 美國貝爾核心公司經理<br />美國摩托羅拉公司經理<br />美國凱斯西儲大學計算機工程博士 |
 | [何宜慈基金會](https://irvingthofoundation.github.io/) | 董事長 王榮騰 (華騰科技董事長)<br />執行長 何邦立 (國防醫學院傑出校友) |
 |:-----:|:-----:|
 | | |
