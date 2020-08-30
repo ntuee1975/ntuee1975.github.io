@@ -46,7 +46,7 @@ sectionid: donors
 | [李明儒](/classmates/李明儒/) | 沛亨半導體創辦人、董事長兼總經理 |
 | [盧超群](/classmates/盧超群/) | 鈺創科技董事長<br>美國史丹佛大學電機博士 |
 | [陳遜易](/classmates/陳遜易/) | 介智企管顧問公司董事長兼總經理<br />英保電腦公司董事 |
-| 蔡毅成 | |
+| [蔡毅成](/classmates/蔡毅成/) | 臺灣電力公司核能一廠建廠電機工程師<br />美國王安電腦公司系統工程師<br />美國 AT&T 貝爾實驗室 Principal Technical Staff Member |
 | [孫元成](/classmates/孫元成/) | 臺大特聘講座教授<br>臺積電研發副總經理、技術長<br>美國伊利諾大學香檳分校電機博士 |
 | [周培民](/classmates/周培民/) | 美國 Microchip Technology  射頻部副總經理<br />美國 G-Plus Technology (巨通科技) 總經理、共同創辦人<br />美國加州大學洛杉磯分校電機博士 |
 | [黃崇興](/classmates/黃崇興/) | 臺大工商管理系名譽教授<br>臺大EMBA執行長<br>美國德州大學奧斯汀分校管理科學及資訊系統博士 |
