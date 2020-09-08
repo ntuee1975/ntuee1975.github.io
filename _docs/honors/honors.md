@@ -25,11 +25,15 @@ sectionid: honors
 
 - **Cadence Fellow**
 
-  [錢大柱](/classmates/錢大柱)
+  [錢大柱](/classmates/錢大柱/)
 
 - **Infinera Fellow**
 
-  [吳光燦](/classmates/吳光燦)
+  [吳光燦](/classmates/吳光燦/)
+
+- **Super Micro Computer Fellow**
+
+  [王茂穗](/classmates/王茂穗/)
 
 - **政府部門首長**
 
