@@ -71,6 +71,16 @@ sectionid: honors
 
   美國: [錢大柱](/classmates/錢大柱)、[王榮騰](/classmates/王榮騰/)、[魏游邦](/classmates/魏游邦/)、[董建成](/classmates/董建成/)、[周培民](/classmates/周培民/)、[蕭嘉全](/classmates/蕭嘉全/)、[李思亮](/classmates/李思亮/)
 
+- **美國貝爾實驗室研究員**
+
+  [黃年奇](/classmates/黃年奇/)、[董建成](/classmates/董建成/)、蔡琦、[余耀庭](/classmates/余耀庭/)、[曾欽平](/classmates/曾欽平/)、[蔡尚仁](/classmates/蔡尚仁/)、[趙明德](/classmates/趙明德/)、[蔡毅成](/classmates/蔡毅成/) 、[傅崇正](/classmates/傅崇正/)、[陳博修](/classmates/陳博修/)、葉少基、任中浩、吳聲基
+
+- **IBM 研究員**
+
+  臺灣：[張台傑](/classmates/張台傑/)、汪維亮、沈政芳、周立台、陳俊臣
+
+  美國：[盧超群](/classmates/盧超群/)、[莊景德](/classmates/莊景德/)、[孫元成](/classmates/孫元成/)、[王雲](/classmates/王雲/)
+
 - **博士** (`粗體`部分)
 
   |:-----:|:-----:|:-----:|:-----:|:-----:|
