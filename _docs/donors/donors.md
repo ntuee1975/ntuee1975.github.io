@@ -13,7 +13,7 @@ sectionid: donors
 | [陳冠中](/classmates/陳冠中/) | 美國加州大學柏克萊分校電機博士 |
 | [王榮騰](/classmates/王榮騰/) | 華騰科技董事長<br>臺大電機資訊學院客座教授<br>美國史丹佛大學電機博士 |
 | [張義隆](/classmates/張義隆/) | 美國喬治亞理工學院商學院名譽教授 |
-| 蔡利清 | |
+| [蔡利清](/classmates/蔡利清/) | 美國惠普積體電路設計經理<br />美國Intel處理機設計經理 |
 | [黃漢威](/classmates/黃漢威/) | 美國明尼蘇達州立大學電機系教授 |
 | [魏游邦](/classmates/魏游邦/) | 美國 Legend Design Technology 創辦人<br>美國伊利諾大學香檳分校電機博士 |
 | [王茂穗](/classmates/王茂穗/) | 台灣華碩電腦總工程師<br />美國 Super Micro Computer Fellow |
