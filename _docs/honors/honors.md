@@ -77,7 +77,7 @@ sectionid: honors
 
 - **美國貝爾實驗室研究員**
 
-  [黃年奇](/classmates/黃年奇/)、[董建成](/classmates/董建成/)、蔡琦、[余耀庭](/classmates/余耀庭/)、[曾欽平](/classmates/曾欽平/)、[蔡尚仁](/classmates/蔡尚仁/)、[趙明德](/classmates/趙明德/)、[蔡毅成](/classmates/蔡毅成/) 、[傅崇正](/classmates/傅崇正/)、[陳博修](/classmates/陳博修/)、葉少基、任中浩、吳聲基
+  [黃年奇](/classmates/黃年奇/)、[董建成](/classmates/董建成/)、[蔡琦](/classmates/蔡琦/)、[余耀庭](/classmates/余耀庭/)、[曾欽平](/classmates/曾欽平/)、[蔡尚仁](/classmates/蔡尚仁/)、[趙明德](/classmates/趙明德/)、[蔡毅成](/classmates/蔡毅成/) 、[傅崇正](/classmates/傅崇正/)、[陳博修](/classmates/陳博修/)、葉少基、任中浩、吳聲基
 
 - **IBM 研究員**
 
