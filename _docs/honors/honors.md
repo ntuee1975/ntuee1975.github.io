@@ -81,7 +81,7 @@ sectionid: honors
 
 - **IBM 研究員**
 
-  臺灣：[張台傑](/classmates/張台傑/)、[汪維亮](/classmates/汪維亮/)、沈政芳、周立台、陳俊臣
+  臺灣：[張台傑](/classmates/張台傑/)、[汪維亮](/classmates/汪維亮/)、[沈政芳](/classmates/沈政芳/)、[周立台](/classmates/周立台/)、[陳俊臣](/classmates/陳俊臣/)
 
   美國：[盧超群](/classmates/盧超群/)、[莊景德](/classmates/莊景德/)、[孫元成](/classmates/孫元成/)、[王雲](/classmates/王雲/)
 

@@ -67,6 +67,9 @@ sectionid: donors
 | [王雲](/classmates/王雲/) | IBM Fellow<br />美國加州大學聖塔芭芭拉分校電機博士 |
 | [趙明德](/classmates/趙明德/) | 美國貝爾核心公司經理<br />美國摩托羅拉公司經理<br />美國凱斯西儲大學計算機工程博士 |
 | [蔡琦](/classmates/蔡琦/) | 美國AT&T貝爾實驗室研究員<br />美國紐約布魯克林理工學院電機博士 |
+| [沈政芳](/classmates/沈政芳/) | 臺灣 IBM 研究員 |
+| [周立台](/classmates/周立台/) | 臺灣 IBM 研究員 |
+| [陳俊臣](/classmates/陳俊臣/) | 臺灣 IBM 研究員 |
 | [何宜慈基金會](https://irvingthofoundation.github.io/) | 董事長 王榮騰 (華騰科技董事長)<br />執行長 何邦立 (國防醫學院傑出校友) |
 |:-----:|:-----:|
 | | |
