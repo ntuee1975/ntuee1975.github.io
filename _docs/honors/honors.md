@@ -77,7 +77,7 @@ sectionid: honors
 
 - **美國 AT&T 貝爾實驗室研究員**
 
-  [黃年奇](/classmates/黃年奇/)、[董建成](/classmates/董建成/)、[蔡琦](/classmates/蔡琦/)、[余耀庭](/classmates/余耀庭/)、[曾欽平](/classmates/曾欽平/)、[蔡尚仁](/classmates/蔡尚仁/)、[趙明德](/classmates/趙明德/)、[蔡毅成](/classmates/蔡毅成/) 、[傅崇正](/classmates/傅崇正/)、[陳博修](/classmates/陳博修/)、葉少基、任中浩、吳聲基
+  [黃年奇](/classmates/黃年奇/)、[董建成](/classmates/董建成/)、[蔡琦](/classmates/蔡琦/)、[余耀庭](/classmates/余耀庭/)、[曾欽平](/classmates/曾欽平/)、[蔡尚仁](/classmates/蔡尚仁/)、[趙明德](/classmates/趙明德/)、[蔡毅成](/classmates/蔡毅成/) 、[傅崇正](/classmates/傅崇正/)、[陳博修](/classmates/陳博修/)、[葉少基](/classmates/葉少基/)、任中浩、吳聲基
 
 - **IBM 研究員**
 
@@ -120,6 +120,6 @@ sectionid: honors
   | 林鵬舉	| 張榮傑	| 許守義	| 黃滿鴻	| 陳鶴		|
   | 鄭明貴	| 胡卓然	| 陳輝陸	| 孔慶遠	| 剛偉		|
   | 曾少松	| 許寧		| 黃文波	| 王昌龍	| 郭代川	|
-  | 張簡茂英	| `葉少基`	| `董建成`	| 宋創元	| 葉昆山	|
+  | 張簡茂英	| 葉少基	| `董建成`	| 宋創元	| 葉昆山	|
   | `陳正昌`	| 施學輝	| 蔡崇熙	| `謝泉隆`	| 李明宜	|
   | 張紹華 | 翁星國 | 廖大武 | 陳理 | 陳雨生 |
