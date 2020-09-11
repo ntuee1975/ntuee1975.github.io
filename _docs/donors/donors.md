@@ -70,6 +70,8 @@ sectionid: donors
 | [沈政芳](/classmates/沈政芳/) | 臺灣 IBM 研究員 |
 | [周立台](/classmates/周立台/) | 臺灣 IBM 研究員 |
 | [陳俊臣](/classmates/陳俊臣/) | 臺灣 IBM 研究員 |
+| [任中浩](/classmates/任中浩/) | 美國AT&T貝爾實驗室研究員<br />美國加州大學柏克萊分校電機博士 |
+| [吳聲基](/classmates/吳聲基/) | 美國AT&T貝爾實驗室研究員 |
 | [何宜慈基金會](https://irvingthofoundation.github.io/) | 董事長 王榮騰 (華騰科技董事長)<br />執行長 何邦立 (國防醫學院傑出校友) |
 |:-----:|:-----:|
 | | |
