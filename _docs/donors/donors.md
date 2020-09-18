@@ -73,6 +73,7 @@ sectionid: donors
 | [任中浩](/classmates/任中浩/) | 美國AT&T貝爾實驗室研究員<br />美國加州大學柏克萊分校電機博士 |
 | [吳聲基](/classmates/吳聲基/) | 美國AT&T貝爾實驗室研究員 |
 | [林澤民](/classmates/林澤民/) | 美國德州大學奧斯汀分校政府系教授 |
+| [張文嶺](/classmates/張文嶺/) | 骨科醫師 |
 | [鄭崇深](/classmates/鄭崇深/) | 中華電信南區分公司中部資訊中心主任 |
 | [傅曉維](/classmates/傅曉維/) | 美國波音公司Associate Technical Fellow |
 | [蔡英俊](/classmates/蔡英俊/) | 聯電建廠小組經理<br />聯電擴建工程部副部長 和艦廠務工程處處長 |
