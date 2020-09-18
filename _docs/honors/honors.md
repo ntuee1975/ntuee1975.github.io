@@ -77,7 +77,7 @@ sectionid: honors
 
 - **醫師**
 
-  謝世民、[張文嶺](/classmates/張文嶺/)
+  [謝世民](/classmates/謝世民/)、[張文嶺](/classmates/張文嶺/)
 
 - **美國 AT&T 貝爾實驗室研究員**
 
