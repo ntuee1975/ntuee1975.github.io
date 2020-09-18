@@ -37,15 +37,15 @@ sectionid: honors
 
 - **政府部門首長**
 
-  臺灣: [陳添枝](/classmates/陳添枝/)
+  臺灣：[陳添枝](/classmates/陳添枝/)
 
-  美國: [王盈裕](/classmates/王盈裕/)
+  美國：[王盈裕](/classmates/王盈裕/)
 
 - **名譽教授、榮譽教授、終身講座教授、講座教授、特聘教授、教授**
 
-  臺灣: [曹恆偉](/classmates/曹恆偉)、[陳添枝](/classmates/陳添枝/)、[黃崇興](/classmates/黃崇興)、[吳聰敏](/classmates/吳聰敏)、[莊景德](/classmates/莊景德/)、[葉宏謨](/classmates/葉宏謨)、[陳煇煌](/classmates/陳煇煌)
+  臺灣：[曹恆偉](/classmates/曹恆偉)、[陳添枝](/classmates/陳添枝/)、[黃崇興](/classmates/黃崇興)、[吳聰敏](/classmates/吳聰敏)、[莊景德](/classmates/莊景德/)、[葉宏謨](/classmates/葉宏謨)、[陳煇煌](/classmates/陳煇煌)
 
-  美國: [王盈裕](/classmates/王盈裕/)、[陳中寬](/classmates/陳中寬/)、[張義隆](/classmates/張義隆/)、[黃漢威](/classmates/黃漢威)、[林澤民](/classmates/林澤民/)
+  美國：[王盈裕](/classmates/王盈裕/)、[陳中寬](/classmates/陳中寬/)、[張義隆](/classmates/張義隆/)、[黃漢威](/classmates/黃漢威)、[林澤民](/classmates/林澤民/)
 
 - **特聘講座教授、客座教授**
 
@@ -71,9 +71,9 @@ sectionid: honors
 
 - **公司創辦人、共同創辦人**
 
-  臺灣: [盧超群](/classmates/盧超群/)、[林坤銘](/classmates/林坤銘/)、[陳有諒](/classmates/陳有諒/)、[李明儒](/classmates/李明儒/)、[游敦行](/classmates/游敦行/)、[徐永宗](/classmates/徐永宗/)、[余耀庭](/classmates/余耀庭/)、[王冀翹](/classmates/王冀翹/)、[陳博修](/classmates/陳博修/)、[陳遜易](/classmates/陳遜易/)、[施學輝](/classmates/施學輝/)
+  臺灣：[盧超群](/classmates/盧超群/)、[林坤銘](/classmates/林坤銘/)、[陳有諒](/classmates/陳有諒/)、[李明儒](/classmates/李明儒/)、[游敦行](/classmates/游敦行/)、[徐永宗](/classmates/徐永宗/)、[余耀庭](/classmates/余耀庭/)、[王冀翹](/classmates/王冀翹/)、[陳博修](/classmates/陳博修/)、[陳遜易](/classmates/陳遜易/)、[施學輝](/classmates/施學輝/)
 
-  美國: [錢大柱](/classmates/錢大柱/)、[王榮騰](/classmates/王榮騰/)、[魏游邦](/classmates/魏游邦/)、[董建成](/classmates/董建成/)、[周培民](/classmates/周培民/)、[蕭嘉全](/classmates/蕭嘉全/)、[李思亮](/classmates/李思亮/)
+  美國：[錢大柱](/classmates/錢大柱/)、[王榮騰](/classmates/王榮騰/)、[魏游邦](/classmates/魏游邦/)、[董建成](/classmates/董建成/)、[周培民](/classmates/周培民/)、[蕭嘉全](/classmates/蕭嘉全/)、[李思亮](/classmates/李思亮/)
 
 - **醫師**
 
@@ -88,6 +88,22 @@ sectionid: honors
   臺灣：[張台傑](/classmates/張台傑/)、[汪維亮](/classmates/汪維亮/)、[沈政芳](/classmates/沈政芳/)、[周立台](/classmates/周立台/)、[陳俊臣](/classmates/陳俊臣/)
 
   美國：[盧超群](/classmates/盧超群/)、[莊景德](/classmates/莊景德/)、[孫元成](/classmates/孫元成/)、[王雲](/classmates/王雲/)
+
+- **公費留學考錄取名單**
+
+  [謝千行](/classmates/謝千行/)
+
+- **高考錄取名單一電信技師**
+
+  李育安、蕭嘉全、王冀翹、王茂穗
+
+- **高考錄取名單一電力技師**
+
+  謝泉隆、王冀翹、王榮騰、謝千行、鄭崇深、姚建良、鄭乃文、傅崇正、蔡利清、江孝祥、孫元成、蔡尚仁、華春明、陳冠中、楊文榮、原正平、蔡英俊、張昭國、張義隆
+
+- **高考錄取名單一計算機技師**
+
+  王盈裕、謝世民、劉宜亨
 
 - **博士** (`粗體`部分)
 
