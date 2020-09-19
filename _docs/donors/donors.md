@@ -80,6 +80,7 @@ sectionid: donors
 | [鄭崇深](/classmates/鄭崇深/) | 中華電信南區分公司中部資訊中心主任 |
 | [傅曉維](/classmates/傅曉維/) | 美國波音公司Associate Technical Fellow |
 | [蔡英俊](/classmates/蔡英俊/) | 聯電建廠小組經理<br />聯電擴建工程部副部長<br />和艦廠務工程處處長 |
+| [林榮楨](/classmates/林榮楨/) | 美國 Micrel 副總經理 |
 | [何宜慈基金會](https://irvingthofoundation.github.io/) | 董事長 王榮騰 (華騰科技董事長)<br />執行長 何邦立 (國防醫學院傑出校友) |
 |:-----:|:-----:|
 | | |
