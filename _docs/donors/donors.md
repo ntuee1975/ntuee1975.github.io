@@ -83,6 +83,7 @@ sectionid: donors
 | [林榮楨](/classmates/林榮楨/) | 美國 Micrel 副總經理 |
 | [黃河湧](/classmates/黃河湧/) | 臺積電資深處長 |
 | [謝泉隆](/classmates/謝泉隆/) | 美國普林斯頓大學電機博士 |
+| [江孝祥](/classmates/江孝祥/) | 臺灣華碩電腦副總工程師 |
 | [何宜慈基金會](https://irvingthofoundation.github.io/) | 董事長 王榮騰 (華騰科技董事長)<br />執行長 何邦立 (國防醫學院傑出校友) |
 |:-----:|:-----:|
 | | |
