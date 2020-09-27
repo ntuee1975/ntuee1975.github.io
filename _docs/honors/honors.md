@@ -95,15 +95,15 @@ sectionid: honors
 
 - **高考錄取名單一電信技師**
 
-  李育安、蕭嘉全、王冀翹、王茂穗
+  [李育安](/classmates/李育安/)、[蕭嘉全](/classmates/蕭嘉全/)、[王冀翹](/classmates/王冀翹/)、[王茂穗](/classmates/王茂穗/)
 
 - **高考錄取名單一電力技師**
 
-  謝泉隆、王冀翹、王榮騰、謝千行、鄭崇深、姚建良、鄭乃文、傅崇正、蔡利清、江孝祥、孫元成、蔡尚仁、華春明、陳冠中、楊文榮、原正平、蔡英俊、張昭國、張義隆、施學輝、謝世民
+  [謝泉隆](/classmates/謝泉隆/)、[王冀翹](/classmates/王冀翹/)、[王榮騰](/classmates/王榮騰/)、[謝千行](/classmates/謝千行/)、[鄭崇深](/classmates/鄭崇深/)、[姚建良](/classmates/姚建良/)、[鄭乃文](/classmates/鄭乃文/)、[傅崇正](/classmates/傅崇正/)、[蔡利清](/classmates/蔡利清/)、[江孝祥](/classmates/江孝祥/)、[孫元成](/classmates/孫元成/)、[蔡尚仁](/classmates/蔡尚仁/)、[華春明](/classmates/華春明/)、[陳冠中](/classmates/陳冠中/)、[楊文榮](/classmates/楊文榮/)、[原正平](/classmates/原正平/)、[蔡英俊](/classmates/蔡英俊/)、[張昭國](/classmates/張昭國/)、[張義隆](/classmates/張義隆/)、[施學輝](/classmates/施學輝/)、[謝世民](/classmates/施學輝/)
 
 - **高考錄取名單一計算機技師**
 
-  王盈裕、謝世民、劉宜亨
+  [王盈裕](/classmates/王盈裕/)、[謝世民](/classmates/謝世民/)、[劉宜亨](/classmates/劉宜亨/)
 
 - **博士** (`粗體`部分)
 
