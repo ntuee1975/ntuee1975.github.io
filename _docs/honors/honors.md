@@ -77,7 +77,7 @@ sectionid: honors
 
 - **醫師**
 
-  [謝世民](/classmates/謝世民/)、[張文嶺](/classmates/張文嶺/)
+  [謝世民](/classmates/謝世民/)、[張文嶺](/classmates/張文嶺/)、[張昭國](/classmates/張昭國/)
 
 - **美國 AT&T 貝爾實驗室研究員**
 
@@ -99,7 +99,7 @@ sectionid: honors
 
 - **高考錄取名單一電力技師**
 
-  [謝泉隆](/classmates/謝泉隆/)、[王冀翹](/classmates/王冀翹/)、[王榮騰](/classmates/王榮騰/)、[謝千行](/classmates/謝千行/)、[鄭崇深](/classmates/鄭崇深/)、[姚建良](/classmates/姚建良/)、[鄭乃文](/classmates/鄭乃文/)、[傅崇正](/classmates/傅崇正/)、[蔡利清](/classmates/蔡利清/)、[江孝祥](/classmates/江孝祥/)、[孫元成](/classmates/孫元成/)、[蔡尚仁](/classmates/蔡尚仁/)、[華春明](/classmates/華春明/)、[陳冠中](/classmates/陳冠中/)、[楊文榮](/classmates/楊文榮/)、[原正平](/classmates/原正平/)、[蔡英俊](/classmates/蔡英俊/)、[張昭國](/classmates/張昭國/)、[張義隆](/classmates/張義隆/)、[施學輝](/classmates/施學輝/)、[謝世民](/classmates/施學輝/)
+  [謝泉隆](/classmates/謝泉隆/)、[王冀翹](/classmates/王冀翹/)、[王榮騰](/classmates/王榮騰/)、[謝千行](/classmates/謝千行/)、[鄭崇深](/classmates/鄭崇深/)、[姚建良](/classmates/姚建良/)、[鄭乃文](/classmates/鄭乃文/)、[傅崇正](/classmates/傅崇正/)、[蔡利清](/classmates/蔡利清/)、[江孝祥](/classmates/江孝祥/)、[孫元成](/classmates/孫元成/)、[蔡尚仁](/classmates/蔡尚仁/)、[華春明](/classmates/華春明/)、[陳冠中](/classmates/陳冠中/)、[楊文榮](/classmates/楊文榮/)、[原正平](/classmates/原正平/)、[蔡英俊](/classmates/蔡英俊/)、[張昭國](/classmates/張昭國/)、[張義隆](/classmates/張義隆/)、[施學輝](/classmates/施學輝/)、[謝世民](/classmates/謝世民/)、[陳博修](/classmates/陳博修/)
 
 - **高考錄取名單一計算機技師**
 
@@ -127,7 +127,7 @@ sectionid: honors
   | 陳達平	| `李育安`	| 周立台	| 陳遜易	| 卜冫		|
   | 楊文榮	| `劉立達`	| `黃和湧`	| 張麥森	| `張宗德`	|
   | 沈政芳	| 李明儒	| `周培民`	| 張世傑	| 張文嶺	|
-  | 陳雲偉	| `林榮楨`	| 林天樂	| `吳光燦`	| `張昭國`	|
+  | 陳雲偉	| `林榮楨`	| 林天樂	| `吳光燦`	| 張昭國	|
   | 林全明	| 張台傑	| 吳聲基	| `黃年奇`	| `陳煇煌`	|
   | 李文	| 馬治健	| 胡正民	| 楊正吉	| 程章生	|
   | 許治行	| 胡德全	| 施一粟	| 余健雄	| 鄧觀成	|

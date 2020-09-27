@@ -77,6 +77,7 @@ sectionid: donors
 | [原正平](/classmates/原正平/) | 美國伊利諾大學香檳分校電機博士 |
 | [謝世民](/classmates/謝世民/) | 家庭醫學科醫師 |
 | [張文嶺](/classmates/張文嶺/) | 骨科醫師 |
+| [張昭國](/classmates/張昭國/) | 美國加州灣區主治針灸醫師<br />美國蘋果電腦資深工程經理<br />美國 RSA Security 工程副總、技術副總、技術長 |
 | [鄭崇深](/classmates/鄭崇深/) | 中華電信南區分公司中部資訊中心主任 |
 | [傅曉維](/classmates/傅曉維/) | 美國波音公司Associate Technical Fellow |
 | [蔡英俊](/classmates/蔡英俊/) | 聯電建廠小組經理<br />聯電擴建工程部副部長<br />和艦廠務工程處處長 |
