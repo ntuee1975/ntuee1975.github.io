@@ -85,6 +85,8 @@ sectionid: donors
 | [謝泉隆](/classmates/謝泉隆/) | 美國普林斯頓大學電機博士 |
 | [江孝祥](/classmates/江孝祥/) | 臺灣華碩電腦副總工程師 |
 | [陳久威](/classmates/陳久威/) | 美國 AITech International 創辦人<br />美國加州理工學院電機博士 |
+| [林天樂](/classmates/林天樂/) | 旺宏電子記憶體處長 |
+| [劉宜亨](/classmates/劉宜亨/) | 臺灣銀行資訊室分析師 |
 | [何宜慈基金會](https://irvingthofoundation.github.io/) | 董事長 王榮騰 (華騰科技董事長)<br />執行長 何邦立 (國防醫學院傑出校友) |
 |:-----:|:-----:|
 | | |
