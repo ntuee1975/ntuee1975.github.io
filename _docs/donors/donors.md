@@ -81,15 +81,15 @@ sectionid: donors
 | [鄭崇深](/classmates/鄭崇深/) | 中華電信南區分公司中部資訊中心主任 |
 | [傅曉維](/classmates/傅曉維/) | 美國波音公司Associate Technical Fellow |
 | [蔡英俊](/classmates/蔡英俊/) | 聯電建廠小組經理<br />聯電擴建工程部副部長<br />和艦廠務工程處處長 |
+| [林天樂](/classmates/林天樂/) | 旺宏電子記憶體處長 |
+| [劉宜亨](/classmates/劉宜亨/) | 臺灣銀行資訊室分析師 |
+| [李育安](/classmates/李育安/) | 美國 Loral Corporation 研究員<br />美國賓州大學電機博士 |
+| [華春明](/classmates/華春明/) | 美國馬利蘭中華聖經教會 (Chinese Bible Church of Maryland ) 教師 |
 | [林榮楨](/classmates/林榮楨/) | 美國 Micrel 副總經理 |
 | [黃河湧](/classmates/黃河湧/) | 臺積電資深處長 |
 | [謝泉隆](/classmates/謝泉隆/) | 美國普林斯頓大學電機博士 |
 | [江孝祥](/classmates/江孝祥/) | 臺灣華碩電腦副總工程師 |
 | [陳久威](/classmates/陳久威/) | 美國 AITech International 創辦人<br />美國加州理工學院電機博士 |
-| [林天樂](/classmates/林天樂/) | 旺宏電子記憶體處長 |
-| [劉宜亨](/classmates/劉宜亨/) | 臺灣銀行資訊室分析師 |
-| [李育安](/classmates/李育安/) | 美國 Loral Corporation 研究員<br />美國賓州大學電機博士 |
-| [華春明](/classmates/華春明/) | 美國馬利蘭中華聖經教會 (Chinese Bible Church of Maryland ) 教師 |
 | [何宜慈基金會](https://irvingthofoundation.github.io/) | 董事長 王榮騰 (華騰科技董事長)<br />執行長 何邦立 (國防醫學院傑出校友) |
 |:-----:|:-----:|
 | | |
