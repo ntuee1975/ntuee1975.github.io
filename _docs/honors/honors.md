@@ -81,7 +81,7 @@ sectionid: honors
 
 - **美國 AT&T 貝爾實驗室研究員**
 
-  [黃年奇](/classmates/黃年奇/)、[董建成](/classmates/董建成/)、[蔡琦](/classmates/蔡琦/)、[余耀庭](/classmates/余耀庭/)、[曾欽平](/classmates/曾欽平/)、[蔡尚仁](/classmates/蔡尚仁/)、[趙明德](/classmates/趙明德/)、[蔡毅成](/classmates/蔡毅成/) 、[傅崇正](/classmates/傅崇正/)、[陳博修](/classmates/陳博修/)、[葉少基](/classmates/葉少基/)、[任中浩](/classmates/任中浩/)、[吳聲基](/classmates/吳聲基/)
+  [黃年奇](/classmates/黃年奇/)、[董建成](/classmates/董建成/)、[蔡琦](/classmates/蔡琦/)、[余耀庭](/classmates/余耀庭/)、[曾欽平](/classmates/曾欽平/)、[蔡尚仁](/classmates/蔡尚仁/)、[趙明德](/classmates/趙明德/)、[蔡毅成](/classmates/蔡毅成/) 、[傅崇正](/classmates/傅崇正/)、[陳博修](/classmates/陳博修/)、[葉少基](/classmates/葉少基/)、[任中浩](/classmates/任中浩/)、[吳聲基](/classmates/吳聲基/)、[王聖衍](/classmates/王聖衍/)
 
 - **IBM 研究員**
 
@@ -120,7 +120,7 @@ sectionid: honors
   | `沈弘達`	| 蔡文鐸	| 郭棋楠	| `吳自康`	| `吳聰敏`	|
   | `蔡琦`	| `陳添枝`	| 曹定天	| 方宏基	| `王榮騰`	|
   | 李濟民	| 陳進福	| `張義隆`	| `林澤民`	| 李思亮	|
-  | 周嘉雲	| `陳中寬`	| 楊彥彰	| `王一飛`	| 王聖衍	|
+  | 周嘉雲	| `陳中寬`	| 楊彥彰	| `王一飛`	| `王聖衍`	|
   | 陳有諒	| 王茂穗	| 杜松泰	| 黃大峻	| 蔡英俊	|
   | 陳俊臣	| `趙明德`	| `蕭嘉全`	| 鄭崇深	| `王雲`	|
   | 呂文龍	| `黃崇興`	| 劉宜亨	| 林經緯	| 林坤銘	|
