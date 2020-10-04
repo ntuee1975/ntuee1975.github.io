@@ -85,6 +85,7 @@ sectionid: donors
 | [劉宜亨](/classmates/劉宜亨/) | 臺灣銀行資訊室分析師 |
 | [李育安](/classmates/李育安/) | 美國 Loral Corporation 研究員<br />美國賓州大學電機博士 |
 | [華春明](/classmates/華春明/) | 美國馬利蘭中華聖經教會 (Chinese Bible Church of Maryland ) 教師 |
+| [杜松泰](/classmates/杜松泰/) | 美國 Beckman Coulter Inc. Sr. Staff Engineer |
 | [林榮楨](/classmates/林榮楨/) | 美國 Micrel 副總經理 |
 | [黃河湧](/classmates/黃河湧/) | 臺積電資深處長 |
 | [謝泉隆](/classmates/謝泉隆/) | 美國普林斯頓大學電機博士 |
