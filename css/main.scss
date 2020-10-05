@@ -92,9 +92,17 @@ body {
 }
 
 
-%page-header-container {
-  margin-top: 0px;
-  height: 150px;
+@media screen and (min-width: 450px) {
+  %page-header-container {
+    margin-top: 0px;
+    height: 370px;
+  }
+}
+@media screen and (max-width: 450px) {
+  %page-header-container {
+    margin-top: 0px;
+    height: 150px;
+  }
 }
 
 .page-header-container-classmate {
@@ -103,7 +111,7 @@ body {
   background-color: black;
   // background-attachment: fixed;
   background-size: cover;
-  background-position: center 45%;
+  background-position: center 15%;
 }
 
 .page-header-container-gate {
