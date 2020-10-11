@@ -91,6 +91,7 @@ sectionid: donors
 | [林經緯](/classmates/林經緯/) | 美國俄勒岡州立大學電機工程碩士 |
 | [陳正昌](/classmates/陳正昌/) | 美國 Hughes Aircraft Microwave Division 研究員<br />美國密西根大學 Ann Arbor 分校電機博士 |
 | [黃尊陸](/classmates/黃尊陸/) | 美國柯達公司研究員<br />美國 Intel 晶片封裝技術開發 (Package Technology Development) 研究員<br />美國康乃爾大學電機博士 |
+| [廖曉狄](/classmates/廖曉狄/) | 任職於臺達電 |
 | [杜松泰](/classmates/杜松泰/) | 美國 Beckman Coulter Inc. Sr. Staff Engineer |
 | [陳雲偉](/classmates/陳雲偉/) | 美國 Siemens Telecom 資深經理<br />美國朗訊科技資深經理<br />美國 Cisco Systems 處長 |
 | [許治行](/classmates/許治行/) | 美國德州大學阿靈頓分校電腦博士 |
