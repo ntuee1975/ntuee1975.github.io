@@ -93,6 +93,7 @@ sectionid: donors
 | [黃尊陸](/classmates/黃尊陸/) | 美國柯達公司研究員<br />美國 Intel 晶片封裝技術開發 (Package Technology Development) 研究員<br />美國康乃爾大學電機博士 |
 | [廖曉狄](/classmates/廖曉狄/) | 任職於臺達電 |
 | [林曉義](/classmates/林曉義/) | 美國南加大電機博士 |
+| [程章生](/classmates/程章生/) | 工業技術研究院電子研究所研究員 |
 | [杜松泰](/classmates/杜松泰/) | 美國 Beckman Coulter Inc. Sr. Staff Engineer |
 | [陳雲偉](/classmates/陳雲偉/) | 美國 Siemens Telecom 資深經理<br />美國朗訊科技資深經理<br />美國 Cisco Systems 處長 |
 | [許治行](/classmates/許治行/) | 美國德州大學阿靈頓分校電腦博士 |
