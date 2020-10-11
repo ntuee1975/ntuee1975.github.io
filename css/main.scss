@@ -91,18 +91,9 @@ body {
   top:10px
 }
 
-
-@media screen and (min-width: 450px) {
-  %page-header-container {
-    margin-top: 0px;
-    height: 370px;
-  }
-}
-@media screen and (max-width: 450px) {
-  %page-header-container {
-    margin-top: 0px;
-    height: 150px;
-  }
+%page-header-container {
+  margin-top: 0px;
+  height: 150px;
 }
 
 .page-header-container-classmate {
@@ -112,6 +103,19 @@ body {
   // background-attachment: fixed;
   background-size: cover;
   background-position: center 15%;
+}
+
+@media screen and (min-width: 450px) {
+  .page-header-container-classmate {
+    margin-top: 0px;
+    height: 370px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .page-header-container-classmate {
+    margin-top: 0px;
+    height: 150px;
+  }
 }
 
 .page-header-container-gate {
