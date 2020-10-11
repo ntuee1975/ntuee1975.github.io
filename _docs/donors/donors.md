@@ -83,7 +83,7 @@ sectionid: donors
 | [蔡英俊](/classmates/蔡英俊/) | 聯電建廠小組經理<br />聯電擴建工程部副部長<br />和艦廠務工程處處長 |
 | [林天樂](/classmates/林天樂/) | 旺宏電子記憶體處長 |
 | [劉宜亨](/classmates/劉宜亨/) | 臺灣銀行資訊室分析師 |
-| [李育安](/classmates/李育安/) | 美國 Loral Corporation 研究員<br />美國賓州大學電機博士 |
+| [李育安](/classmates/李育安/) | 美國 SPACE SYSTEMS/LORAL Principal Engineer<br />美國賓州大學電機博士 |
 | [華春明](/classmates/華春明/) | 美國馬利蘭中華聖經教會 (Chinese Bible Church of Maryland ) 教師 |
 | [卜冫](/classmates/卜冫/) | 美國維吉尼亞理工大學電機工程碩士 |
 | [李濟民](/classmates/李濟民/) | 美國 IDT 半導體公司資深副總裁<br />美國投資公司創辦人兼董事、總經理 |
