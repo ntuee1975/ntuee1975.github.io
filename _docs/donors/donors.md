@@ -87,6 +87,7 @@ sectionid: donors
 | [華春明](/classmates/華春明/) | 美國馬利蘭中華聖經教會 (Chinese Bible Church of Maryland ) 教師 |
 | [卜冫](/classmates/卜冫/) | 美國維吉尼亞理工大學電機工程碩士 |
 | [李濟民](/classmates/李濟民/) | 美國 IDT 半導體公司資深副總裁<br />美國投資公司創辦人兼董事、總經理 |
+| [胡正民](/classmates/胡正民/) | 美國 Rutgers University 電機工程碩士 |
 | [杜松泰](/classmates/杜松泰/) | 美國 Beckman Coulter Inc. Sr. Staff Engineer |
 | [陳雲偉](/classmates/陳雲偉/) | 美國 Siemens Telecom 資深經理<br />美國朗訊科技資深經理<br />美國 Cisco Systems 處長 |
 | [許治行](/classmates/許治行/) | 美國德州大學阿靈頓分校電腦博士 |
