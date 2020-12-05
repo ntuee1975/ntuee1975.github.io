@@ -36,4 +36,14 @@ sectionid: awardees
      2020年8月4日毛紹綱教授(2019年獲獎團隊指導老師)前往首席創投拜會諮詢顧問組成員；左起：陳有諒、董清銓、毛紹綱、孫元成、林坤銘。
    </td>
   </tr>
+  <tr>
+   <td>
+   <img src="/img/award_medals.jpg"
+        alt="「臺大1975級電機系系友科技研究創新獎」範本獎牌"
+        width="260" border="10" />
+   </td>
+   <td class="photo-text">
+     「臺大1975級電機系系友科技研究創新獎」範本獎牌
+   </td>
+  </tr>
 </table>
