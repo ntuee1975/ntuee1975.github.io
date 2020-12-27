@@ -3,6 +3,18 @@ title: Our Life
 permalink: /life/
 sectionid: life
 ---
+- **2020年12月23日陳有諒董事長和孫元成博士受邀評審電資學院『科技研究創新獎』申請資料**
+
+  <img src="/img/life_2020_award_review_1.jpg"
+       width="500"
+       alt="陳有諒董事長和孫元成博士受邀評審電資學院『科技研究創新獎』申請資料" border="10" />
+  左起：院長張耀文、陳有諒
+
+  <img src="/img/life_2020_award_review_2.jpg"
+       width="500"
+       alt="陳有諒董事長和孫元成博士受邀評審電資學院『科技研究創新獎』申請資料" border="10" />
+  左起：院長張耀文、孫元成
+
 - **2020年11月15日(臺大校慶日)孫元成博士獲頒臺大傑出校友**
 
   <img src="/img/life_outstanding_孫元成.jpg"
