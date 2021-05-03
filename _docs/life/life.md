@@ -3,6 +3,10 @@ title: Our Life
 permalink: /life/
 sectionid: life
 ---
+- **2021年3月25日臺大電機資訊學院研究教學宣傳影片**
+
+  <iframe width="500" height="281" src="https://www.youtube.com/embed/Mv3PCCLQmT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+
 - **2020年12月23日陳有諒董事長和孫元成博士受邀評審電資學院『科技研究創新獎』申請資料**
 
   <img src="/img/life_2020_award_review_1.jpg"
