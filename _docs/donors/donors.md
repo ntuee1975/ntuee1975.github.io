@@ -67,7 +67,7 @@ sectionid: donors
 | [王雲](/classmates/王雲/) | IBM Fellow<br />美國加州大學聖塔芭芭拉分校電機博士 |
 | [趙明德](/classmates/趙明德/) | 美國貝爾核心公司經理<br />美國摩托羅拉公司經理<br />美國凱斯西儲大學計算機工程博士 |
 | [蔡琦](/classmates/蔡琦/) | 美國 AT&T 貝爾實驗室研究員<br />美國紐約布魯克林理工學院電機博士 |
-| [沈政芳](/classmates/沈政芳/) | 臺灣 IBM 研究員 |
+| [沈政芳](/classmates/沈政芳/) | IBM 大中華研發中心副總經理 |
 | [周立台](/classmates/周立台/) | 臺灣 IBM 研究員 |
 | [陳俊臣](/classmates/陳俊臣/) | 臺灣 IBM 研究員 |
 | [任中浩](/classmates/任中浩/) | 美國 AT&T 貝爾實驗室研究員<br />美國加州大學柏克萊分校電機博士 |
