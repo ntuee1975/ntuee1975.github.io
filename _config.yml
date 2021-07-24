@@ -5,7 +5,7 @@ email: your-email@domain.com
 description:
 lang: en-US
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://ntuee1975.github.io # the base hostname & protocol for your site
 git_address: https://github.com/ntuee1975/ntuee1975.github.io
 git_edit_address: https://github.com/ntuee1975/ntuee1975.github.io/blob/master
@@ -93,6 +93,13 @@ defaults:
   values:
     layout: docs_no_nav
     sectionid: resources
+
+- scope:
+    path: _docs/hopes
+    type: docs
+  values:
+    layout: docs_no_nav
+    sectionid: hopes
 
 collections:
   docs:
