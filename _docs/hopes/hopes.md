@@ -14,12 +14,12 @@ sectionid: hopes
 - **希望生獎助學金**
   - [臺大1975級電機系系友捐贈希望生獎助學金設置要點](/files/臺大1975級電機系系友捐贈希望生獎助學金設置要點_公告版.pdf)
   - [臺大1975級電機系系友捐贈希望生獎助學金申請書](/files/臺大1975級電機系系友捐贈希望生獎助學金申請書.pdf)
-  - 捐贈者：[吳自康](classmates/吳自康/)、[陳冠中](classmates/陳冠中/)、[徐永宗](classmates/徐永宗/)、[王榮冠](classmates/王榮冠/)、[王榮騰](classmates/王榮騰/)、[王一飛](classmates/王一飛/)
+  - 捐贈者：[吳自康](/classmates/吳自康/)、[陳冠中](/classmates/陳冠中/)、[徐永宗](/classmates/徐永宗/)、[王榮冠](/classmates/王榮冠/)、[王榮騰](/classmates/王榮騰/)、[王一飛](/classmates/王一飛/)
 
 - **希望生急難慰助金**
   - [臺大1975級電機系系友捐贈希望生急難慰助金設置要點](/files/臺大1975級電機系系友捐贈希望生急難慰助金設置要點_公告版.pdf)
   - [臺大1975級電機系系友捐贈希望生急難慰助金申請書](/files/臺大1975級電機系系友捐贈希望生急難慰助金申請書.pdf)
-  - 捐贈者：[陳有諒](classmates/陳有諒/)、[王盈裕](classmates/王盈裕/)、[姚建良](classmates/姚建良/)、[蔡尚仁](classmates/蔡尚仁/)、[傅崇正](classmates/傅崇正/)
+  - 捐贈者：[陳有諒](/classmates/陳有諒/)、[王盈裕](/classmates/王盈裕/)、[姚建良](/classmates/姚建良/)、[蔡尚仁](/classmates/蔡尚仁/)、[傅崇正](/classmates/傅崇正/)
 
 **得獎名單**
 
