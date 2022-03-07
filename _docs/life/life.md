@@ -3,6 +3,14 @@ title: Our Life
 permalink: /life/
 sectionid: life
 ---
+- **2022年1月18日陳有諒董事長和孫元成博士受邀拜訪電資學院**
+
+  <img src="/img/陳有諒董事長和孫元成博士受邀_202201.jpg"
+       width="500"
+       alt="陳有諒董事長和孫元成博士受邀拜訪電資學院" border="10" />
+  後排左起：電機系魏宏宇副主任 、資訊網路與多媒體研究所施吉昇所長、資訊工程系洪士灝主任、資料科學學位學程黃俊郎主任<br />
+  前排左起：張耀文院長、陳有諒董事長、林恭如副院長、孫元成博士(視訊)
+
 - **2021年3月25日臺大電機資訊學院研究教學宣傳影片**
 
   <iframe width="500" height="281" src="https://www.youtube.com/embed/Mv3PCCLQmT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
