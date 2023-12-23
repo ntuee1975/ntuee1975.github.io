@@ -3,7 +3,7 @@ title: Our Life
 permalink: /life/
 sectionid: life
 ---
-- **2023年11月4日在台同學於台北君悅酒店宴請歸國省親同學王榮冠賢伉儷**
+- **2023年12月14日於美國灣區利苑酒家宴請孫元成博士**
 
   <img src="/img/2023年12月14日於美國灣區利苑酒家.jpg"
        width="500"
