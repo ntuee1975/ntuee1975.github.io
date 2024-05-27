@@ -20,7 +20,8 @@ sectionid: hopes
 - **希望生急難慰助金**
   - [臺大1975級電機系系友捐贈希望生急難慰助金設置要點](/files/臺大1975級電機系系友捐贈希望生急難慰助金設置要點_公告版.pdf)
   - [臺大1975級電機系系友捐贈希望生急難慰助金申請書](/files/國立臺灣大學一九七五級電機工程學系系友捐贈希望生獎助學金申請書_111學年.pdf)
-  - 捐贈者：[陳有諒](/classmates/陳有諒/)、[王盈裕](/classmates/王盈裕/)、[姚建良](/classmates/姚建良/)、[蔡尚仁](/classmates/蔡尚仁/)、[傅崇正](/classmates/傅崇正/)
+  - 捐贈者(2021)：[陳有諒](/classmates/陳有諒/)、[王盈裕](/classmates/王盈裕/)、[姚建良](/classmates/姚建良/)、[蔡尚仁](/classmates/蔡尚仁/)、[傅崇正](/classmates/傅崇正/)
+  - 捐贈者(2024)：[陳冠中](/classmates/陳冠中/)、[林坤銘](/classmates/林坤銘/)、[張台傑](/classmates/張台傑/)、[蔡尚仁](/classmates/蔡尚仁/)、[葉宏謨](classmates/葉宏謨/)、[王榮騰](/classmates/王榮騰/)、[蔡毅成](/classmates/蔡毅成/)
 
 **獎助學金得獎名單**
 
