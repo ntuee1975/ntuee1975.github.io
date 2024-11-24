@@ -12,7 +12,7 @@ sectionid: hopes
 - [臺大教學發展中心網站「希望計畫」](https://www.dlc.ntu.edu.tw/%e5%b8%8c%e6%9c%9b%e8%a8%88%e7%95%ab/)
 
 - **希望生獎助學金**
-  - [臺大1975級電機系系友捐贈希望生獎助學金設置要點](/files/國立臺灣大學一九七五級電機工程學系系友捐贈希望生設置要點修正條文對照表_111學年.pdf)
+  - [臺大1975級電機系系友捐贈希望生獎助學金設置要點](/files/國立臺灣大學一九七五級電機工程學系系友捐贈希望生獎助學金設置要點_1130716.pdf)
   - [臺大1975級電機系系友捐贈希望生獎助學金申請書](/files/國立臺灣大學一九七五級電機工程學系系友捐贈希望生獎助學金申請書_111學年.pdf)
   - 捐贈者：[吳自康](/classmates/吳自康/)、[林榮楨](/classmates/林榮楨/)、[陳冠中](/classmates/陳冠中/)、[徐永宗](/classmates/徐永宗/)、[王榮冠](/classmates/王榮冠/)、[王榮騰](/classmates/王榮騰/)、[王一飛](/classmates/王一飛/)、[黃慶鍾醫師](https://www.ntuadf.org/contact-us/)、[吳琇瑩醫師](https://www.ntuadf.org/contact-us/)
   - 紀念劉乃誠教授捐贈者：[王盈裕](/classmates/王盈裕/)、[蔡毅成](/classmates/蔡毅成/)
@@ -22,6 +22,7 @@ sectionid: hopes
   - [臺大1975級電機系系友捐贈希望生急難慰助金申請書](/files/國立臺灣大學一九七五級電機工程學系系友捐贈希望生獎助學金申請書_111學年.pdf)
   - 捐贈者(2021)：[陳有諒](/classmates/陳有諒/)、[王盈裕](/classmates/王盈裕/)、[姚建良](/classmates/姚建良/)、[蔡尚仁](/classmates/蔡尚仁/)、[傅崇正](/classmates/傅崇正/)
   - 捐贈者(2024)：[王盈裕](/classmates/王盈裕/)、[陳冠中](/classmates/陳冠中/)、[林坤銘](/classmates/林坤銘/)、[張台傑](/classmates/張台傑/)、[蔡尚仁](/classmates/蔡尚仁/)、[葉宏謨](classmates/葉宏謨/)、[王榮騰](/classmates/王榮騰/)、[蔡毅成](/classmates/蔡毅成/)
+
 
 **獎助學金得獎名單**
 
