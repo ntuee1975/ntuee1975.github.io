@@ -3,7 +3,7 @@ title: Our Life
 permalink: /life/
 sectionid: life
 ---
-- **2025年臺大電機80週年系慶**
+- **2025年11月22日於新店彭園班上同學參加臺大電機系80週年系慶合照**
   <img src="/img/2025電機八十_傑出系友.jpg"
        width="500"
        alt="2025電機八十_傑出系友" border="10" />
